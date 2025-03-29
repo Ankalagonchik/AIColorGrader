@@ -9,3 +9,6 @@ This is a static website designed to highlight the services and benefits of Chro
 ├── styles.css         # All styles
 ├── scripts.js         # JavaScript functionality
 └── README.md          # Project documentation
+
+Откройте сайт в браузере по адресу:
+https://ankalagonchik.github.io/AIColorGrader/
